@@ -1,0 +1,26 @@
+h1 {
+    font-family:"Palatino Linotype";
+    font-style:bold;
+    color: dimgrey;
+}
+h2 {
+    color: aliceblue ;
+    font-style:bold;
+    font-family:"Palatino Linotype";
+}
+
+h3 {
+    font-style: bold;
+    color: aliceblue;
+}
+body {
+    background-color: mediumvioletred;
+}
+
+
+
+p {
+    overflow:scroll;
+    font-family:"Palatino Linotype";
+}
+

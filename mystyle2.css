@@ -1,0 +1,29 @@
+h1 {
+    font-family:"Geneva";
+    font-style:bold;
+    color: azure;
+    text-align: center;
+}
+h2 {
+    color: azure;
+    font-style: ;
+    font-family:"Geneva";
+    text-align: center;
+}
+
+a {
+    font-style: italic;
+    color: azure;
+    font-family: "Geneva";
+}
+body {
+    background-color: wheat;
+}
+
+
+
+p {
+    text-align: right;
+    font-family:"Geneva";
+}
+
