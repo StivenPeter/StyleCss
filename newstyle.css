@@ -1,0 +1,34 @@
+.extreme{
+    color:#81d4fa;
+    text-align: center;
+}
+
+.navzone{
+    cursor: wait;
+    color: lightsteelblue;
+}
+
+.content{
+    color:#62929E;
+    text-align: center;
+    font-family: "Geneva";
+    background-color:#00b8d4;
+}
+#tehlulz{
+    border: 4px solid; 
+    width:50px;
+    font-family: "Comic Sans";
+}
+
+.prose{
+    color: lavender;
+    background-color: azure;
+    font-family: "Times New Roman";
+}
+
+#head1{
+    background-color: black;
+    font-style: bold;
+
+}
+
